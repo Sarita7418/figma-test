@@ -1,0 +1,14 @@
+:root {
+  --White: rgba(255, 255, 255, 1);
+  --Transparent-white: rgba(255, 255, 255, 0.8);
+  --Transparent-orange: rgba(242, 153, 74, 0.2);
+  --Green: rgba(39, 174, 96, 1);
+  --Most-transparent-white: rgba(255, 255, 255, 0.6);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat";
+}
